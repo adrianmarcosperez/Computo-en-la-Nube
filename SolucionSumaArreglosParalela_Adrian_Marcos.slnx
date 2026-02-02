@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SolucionSumaArreglosParalela_Adrian_Marcos/SolucionSumaArreglosParalela_Adrian_Marcos.vcxproj" />
+</Solution>

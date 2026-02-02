@@ -1,0 +1,3 @@
+﻿  SolucionSumaArreglosParalela_Adrian_Marcos.cpp
+C:\Users\Breiniac\source\repos\SolucionSumaArreglosParalela_Adrian_Marcos\SolucionSumaArreglosParalela_Adrian_Marcos\SolucionSumaArreglosParalela_Adrian_Marcos.cpp(17,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SolucionSumaArreglosParalela_Adrian_Marcos.vcxproj -> C:\Users\Breiniac\source\repos\SolucionSumaArreglosParalela_Adrian_Marcos\x64\Debug\SolucionSumaArreglosParalela_Adrian_Marcos.exe
